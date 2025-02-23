@@ -1,4 +1,4 @@
-# Active Directory
+# AD Concepts and Configurations
 <h2>Description</h2>
 Let's take alook at some of concepts of Active Directory and how they apply or don't apply to Azure AD. I'll also deploy and configure Active Directory domain services on-premises before we connect our on-premises deployment to Azure in the next module. 
 <br />
